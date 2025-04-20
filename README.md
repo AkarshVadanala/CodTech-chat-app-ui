@@ -1,3 +1,36 @@
+# Real-Time Chat App (UI Only)
+
+This is a responsive and visually appealing real-time chat interface built using **React.js** and **CSS**. The app features a light/dark mode toggle, user avatars, emoji support, online user count, and automated responses—all implemented on the **frontend only** (no backend or database).
+
+## Features
+
+- **Real-time chat UI (UI only, no backend)**
+- **Emoji-based light/dark mode toggle**
+- **User avatars with initials**
+- **Dynamic message rendering with timestamp**
+- **Auto-generated responses to simulate interaction**
+- **Online users counter (simulated)**
+- **Clean, responsive design**
+
+## Tech Stack
+
+- **React.js** (Frontend)
+- **CSS** (Custom styling)
+- **Emoji support** (using Unicode)
+
+## Getting Started
+
+### Prerequisites
+- Node.js and npm installed
+- Code editor like VS Code
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/chat-app-ui.git
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
