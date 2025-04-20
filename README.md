@@ -1,3 +1,14 @@
+---
+
+COMPANY: "CODTECH IT SOLUTIONS"
+NAME: "AKARSH VADANALA"
+INTERN ID: "CT6WVTV"
+DOMAIN: "FRONTEND WEB DEVELOPMENT"
+DURATION: "6 WEEKS"
+MENTOR: "NEELA SANTOSH KUMAR"
+
+---
+
 # Real-Time Chat App (UI Only)
 
 This is a responsive and visually appealing real-time chat interface built using **React.js** and **CSS**. The app features a light/dark mode toggle, user avatars, emoji support, online user count, and automated responses—all implemented on the **frontend only** (no backend or database).
